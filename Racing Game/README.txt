@@ -8,3 +8,5 @@ Requirements:
      to install it run : pip install pygame in your cmd
 
 3. you are all done
+
+download all files orelse it won't work
